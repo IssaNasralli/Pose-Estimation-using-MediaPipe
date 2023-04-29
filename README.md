@@ -1,2 +1,2 @@
 # Pose-Estimation-using-MediaPipe
-In this work we introduce a pose estimation application uses the MediaPipe library.
+In this work we introduce a pose estimation application uses the MediaPipe library. The code demonstrates two use cases of pose estimation: one for static images and videos, and another for liv webcam input. In both cases, the code uses the Pose model then visualizes the keypoints on the input image or video using the OpenCV library, and calculates the frame rate of the output. 
